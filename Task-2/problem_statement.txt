@@ -1,0 +1,13 @@
+Task 2:
+
+Please find attached a zip file containing a PDF document and a corresponding JSON file. The JSON file provides bounding box values for each word identified in the PDF, with each set representing a point of the rectangle in a clockwise direction from the top-left corner.
+
+Extract the following information from the text data, using bounding box information or any reliable technique
+‍
+1. Invoice Date
+2. Invoice Number
+3. Billing Information
+4. Shipping Information
+5. Email
+6. Total Invoice Amount
+7. Number of Items in the Invoice.
