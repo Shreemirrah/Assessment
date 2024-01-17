@@ -1,0 +1,3 @@
+Task 3:
+
+Perform Exploratory Data Analysis (EDA) on the provided Books dataset with the goal of developing a system that can suggest additional books to readers based on a previously selected book.
